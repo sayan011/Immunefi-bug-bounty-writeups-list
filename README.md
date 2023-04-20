@@ -1,3 +1,5 @@
+tired of commenting "write-up wen?" whenever someone tweets about their W,<br/>
+if you find any write-up floating by or write something yourself after getting bounty on Immunefi , pls add here :)
 | **bounty**    | **severity** | **write-up**                                                                                                          | **whitehat**                                                            |
 |---------------|--------------|-----------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------|
 | 400 ETH       | Critical     | [Arbitrum](https://medium.com/@0xriptide/hackers-in-arbitrums-inbox-ca23272641a2)                                     | [riptide](https://twitter.com/0xriptide)                                |
