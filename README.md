@@ -1,5 +1,6 @@
 | **bounty**    | **severity** | **write-up**                                                                                                          | **whitehat**                                                            |
 |---------------|--------------|-----------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------|
+| 400 ETH       | Critical     | [Arbitrum](https://medium.com/@0xriptide/hackers-in-arbitrums-inbox-ca23272641a2)                                     | [riptide](https://twitter.com/0xriptide)                                |
 | 50 ETH        | Critical     | [Balancer](https://mirror.xyz/0x2719F6Dfb85086F87319079cC2f7EeFD0e40994D/NWDf5uW1Ve7-TrcPKwmM86xp8ploMSCRGC58A-NSoFY) | [riptide](https://twitter.com/0xriptide)                                |
 | 50K           | Critical     | [Sense](https://medium.com/immunefi/sense-finance-access-control-issue-bugfix-review-32e0c806b1a0)                    | [alephv.eth](https://twitter.com/alpeh_v)                               |
 | 50k           | Critical     | [Fluidity](https://www.trust-security.xyz/post/breaking-fluidity-for-glory-and-50k)                                   | [Trust](https://twitter.com/trust__90)                                  |
@@ -7,4 +8,4 @@
 |               |              |                                                                                                                       | [Trust]( https://twitter.com/trust__90 )                                |
 | $28k          | Critical     | [Alchemist](https://dacian.me/28k-bounty-admin-brick-forced-revert)                                                   | [Dacian](https://twitter.com/DevDacian)                                 |
 | Not Disclosed | Low          | [Not Disclosed](https://twitter.com/DevABDee/status/1637010561899560961)                                              | [ABDul Rehman](https://twitter.com/DevABDee/status/1637010561899560961) |
-|               |              |                                                                                
+|               |              |                                                                                                                       |                                                                         |
