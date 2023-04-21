@@ -1,3 +1,5 @@
+
+
 | bounty        | **severity** | **write-up**                                                                                                          | **whitehat**                                                            |
 |---------------|--------------|-----------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------|
 | 6M            | Critical     | [Aurora](https://pwning.mirror.xyz/CB4XUkbJVwPo7CaRwRmCApaP2DMjPQccW-NOcCwQlAs)                                       | [pwning.eth](https://twitter.com/PwningEth)                             |
