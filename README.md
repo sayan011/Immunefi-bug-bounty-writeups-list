@@ -15,4 +15,4 @@
 | 28k           | Critical     | [Alchemist](https://dacian.me/28k-bounty-admin-brick-forced-revert)                                                   | [Dacian](https://twitter.com/DevDacian)                                 |
 | Not Disclosed | Low          | [Not Disclosed](https://twitter.com/DevABDee/status/1637010561899560961)                                              | [ABDul Rehman](https://twitter.com/DevABDee/status/1637010561899560961) |
 | 20K           | High         | [Thena](https://zzykxx.com/2023/02/27/a-very-helpful-sign/)                                                           | [zzykxx](https://twitter.com/zzykxx)                                    |
-| Not given     | Critical     | [Angle](https://medium.com/@deliriusz/stealing-in-motion-immunefi-bounty-hunting-from-different-angle-5eb03602f5c1)   | [deliriusz.eth](https://twitter.com/deliriusz_eth)                      |
+| Not Paid      | Critical     | [Angle](https://medium.com/@deliriusz/stealing-in-motion-immunefi-bounty-hunting-from-different-angle-5eb03602f5c1)   | [deliriusz.eth](https://twitter.com/deliriusz_eth)                      |
