@@ -49,4 +49,4 @@
 | Not Disclosed | Critical     | [abwagmi](https://ashiq.co.za/tabs/research/#-critical-vulnerability-disclosed-to-abwagmi)                                                         | [Ashiq Amien](https://twitter.com/AshiqAmien)                                            |
 | Not Disclosed | Critical     | [Polygon](https://ashiq.co.za/tabs/research/#-critical-vulnerability-disclosed-to-polygon)                                                         | [Ashiq Amien](https://twitter.com/AshiqAmien)                                            |
 | Not Disclosed | Critical     | [UUPS proxy](https://ashiq.co.za/tabs/research/#%EF%B8%8F-critical-vulnerability-disclosed-to-four-definft-projects-and-escalated-to-openzeppelin) | [Ashiq Amien](https://twitter.com/AshiqAmien)                                            |
-
+| 5K            | High         | [Charged Particles](https://medium.com/immunefi/charged-particles-griefing-bug-fix-postmortem-d2791e49a66b)                                        | [janbro.eth](https://twitter.com/unsafe_call)                                            |
