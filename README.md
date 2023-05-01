@@ -59,6 +59,5 @@
 | 90K           | Critical     | [Enzyme](https://medium.com/immunefi/enzyme-finance-price-oracle-manipulation-bug-fix-postmortem-4e1f3d4201b5)                                     | setuid0                                                                                  |
 | 1M+100k NOTE  | Critical     | [Notional](https://medium.com/immunefi/notional-double-counting-free-collateral-bugfix-review-28b634903934)                                        | [0x60511e57](https://twitter.com/0x60511e57)                                             |
 | 4.5K          | Critical     | [Bitswift](https://medium.com/immunefi/bitswift-unlimited-mint-bugfix-postmortem-147a1e57dca9)                                                     | -                                                                                        |
-| 4.5K          | Critical     | [Bitswift](https://medium.com/immunefi/bitswift-unlimited-mint-bugfix-postmortem-147a1e57dca9)                                                     | -                                                                                        |
 | 75K           | High         | [Polygon](https://medium.com/immunefi/polygon-consensus-bypass-bugfix-review-7076ce5047fe)                                                         | [Niv Yehezkel](https://twitter.com/invlpgtbl)                                            |
 
