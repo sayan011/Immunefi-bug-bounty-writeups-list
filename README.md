@@ -69,3 +69,5 @@
 | 5K            | Medium       | [xDai](https://medium.com/immunefi/xdai-stake-arbitrary-call-method-bug-postmortem-f80a90ac56e3)                                                   | 0xadee028d                                                                               |
 | 1k            | Low          | [IPOR](https://twitter.com/HollaWaldfee100/status/1656992468867465222)                                                                             | [HollaWaldfee](https://twitter.com/HollaWaldfee100)                                      |
 | 400K                   | Critical     | [Enzyme](https://medium.com/immunefi/enzyme-finance-missing-privilege-check-bugfix-review-ddb5e87b8058)                                            | [rootrescue](https://twitter.com/rootedrescue)                                           |
+| -                      | Medium       | [Polygon zkEVM](https://twitter.com/0xiczc/status/1662090451493740545)                                                                             | [iczc](https://twitter.com/0xiczc)                                                       |
+
