@@ -72,5 +72,5 @@
 | -                      | Medium       | [Polygon zkEVM](https://twitter.com/0xiczc/status/1662090451493740545)                                                                             | [iczc](https://twitter.com/0xiczc)                                                       |
 | 800+800                | -            | [Lybra Finance](https://medium.com/@smaul_1/enhancing-protocol-integrity-addressing-bugs-in-the-lybra-finance-contract-21c1e4b68387)               | [Soumen Jana](https://twitter.com/smaul_1)                                                   |
 | -                      | Critical     | [Spartan](https://github.com/gogotheauditor/audits/blob/main/reports/Spartan-Immunefi-Bug-Bounty.md)                                               | [gogo](https://twitter.com/gogotheauditor)                                               |
-| 100k                   | Critical     | [DFX Finance](https://medium.com/immunefi/dfx-finance-rounding-error-bugfix-review-17ba5ffb4114)                                                   | -                                           |
+| 100k                   | Critical     | [DFX Finance](https://medium.com/immunefi/dfx-finance-rounding-error-bugfix-review-17ba5ffb4114)                                                   | perseverance                                           |
 
