@@ -75,5 +75,7 @@
 | 100k                   | Critical     | [DFX Finance](https://medium.com/immunefi/dfx-finance-rounding-error-bugfix-review-17ba5ffb4114)                                                   | perseverance                                           |
 | -                      | -            | [Perennial](https://mirror.xyz/0x9D6b7f5e8d1b9dFea8dDD29c0DbD81687e721601/mm_D_HrqfntAkGM1DvVQvy1WuPbj99pKYfRp-xDbs8U)                             | [Zach Obront](https://twitter.com/zachobront)                                            |
 | 100k                   | Critical     | [Silo](https://medium.com/silo-protocol/vulnerability-disclosure-2023-06-06-c1dfd4c4dbb8)                                                          | [kankodu](https://twitter.com/kankodu)                                                   |
+| 50K                    | Critical     | [Q Blockchain](https://medium.com/@blockian/striking-gold-at-30-000-feet-uncovering-a-critical-vulnerability-in-q-blockchain-for-50-000-ab335042147b) | [Blockian](https://twitter.com/_blockian)                                                |
+
 
 
