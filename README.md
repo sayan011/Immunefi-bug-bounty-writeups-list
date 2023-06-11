@@ -77,6 +77,7 @@
 | 100k                   | Critical     | [Silo](https://medium.com/silo-protocol/vulnerability-disclosure-2023-06-06-c1dfd4c4dbb8)                                                          | [kankodu](https://twitter.com/kankodu)                                                   |
 | 50K                    | Critical     | [Q Blockchain](https://medium.com/@blockian/striking-gold-at-30-000-feet-uncovering-a-critical-vulnerability-in-q-blockchain-for-50-000-ab335042147b) | [Blockian](https://twitter.com/_blockian)                                                |
 | -                      | -            | [Astroport](https://defihacklabs.substack.com/p/chainlight-patch-thursday-astroports?utm_source=profile&utm_medium=reader2)                           | [ChainLight](https://twitter.com/chainlight_io)                                          |
+| 50K                    | Critical     | [BendDAO](https://medium.com/@BendDAO/sewer-pass-flash-claim-vulnerability-9d2b0b1e09ef)                                                              | -                                                                                        |
 
 
 
