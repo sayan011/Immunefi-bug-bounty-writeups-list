@@ -78,6 +78,6 @@
 | 50K                    | Critical     | [Q Blockchain](https://medium.com/@blockian/striking-gold-at-30-000-feet-uncovering-a-critical-vulnerability-in-q-blockchain-for-50-000-ab335042147b) | [Blockian](https://twitter.com/_blockian)                                                |
 | -                      | -            | [Astroport](https://defihacklabs.substack.com/p/chainlight-patch-thursday-astroports?utm_source=profile&utm_medium=reader2)                           | [ChainLight](https://twitter.com/chainlight_io)                                          |
 | 50K                    | Critical     | [BendDAO](https://medium.com/@BendDAO/sewer-pass-flash-claim-vulnerability-9d2b0b1e09ef)                                                              | -                                                                                        |
-
+| -                      | -            | [OpenZeppelin](https://twitter.com/0xDACA/status/1669846430528286722)                                                                                 | [Daniel Cohen Hillel](https://twitter.com/0xDACA)                                        |
 
 
