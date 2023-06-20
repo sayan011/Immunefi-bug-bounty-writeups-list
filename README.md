@@ -1,3 +1,6 @@
+- All submitted reports of Beanstalk: [Reports](https://community.bean.money/bug-reports)<br/>
+- Better & more comprehensive list of writeups: [SCV-List](https://github.com/sirhashalot/SCV-List) by [SirH4shalot](https://twitter.com/sirh4shalot)<br/>
+
 | bounty  amount      | **severity** | **write-up**                                                                                                                       | **whitehat**                                                                             |
 |---------------|--------------|------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
 | 10M           | Critical     | [Wormhole](https://medium.com/immunefi/wormhole-uninitialized-proxy-bugfix-review-90250c41a43a)                                    | [satya0x](https://twitter.com/satya0x)                                                   |
