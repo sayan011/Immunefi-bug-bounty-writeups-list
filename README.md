@@ -1,5 +1,5 @@
 - All submitted reports of Beanstalk: [Reports](https://community.bean.money/bug-reports)<br/>
-- Better & more comprehensive list of writeups: [SCV-List](https://github.com/sirhashalot/SCV-List)
+- Better & more comprehensive list: [SCV-List](https://github.com/sirhashalot/SCV-List)
 
 | bounty  amount      | **severity** | **write-up**                                                                                                                       | **whitehat**                                                                             |
 |---------------|--------------|------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
