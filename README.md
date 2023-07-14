@@ -82,5 +82,6 @@
 | -                      | -            | [Astroport](https://defihacklabs.substack.com/p/chainlight-patch-thursday-astroports?utm_source=profile&utm_medium=reader2)                           | [ChainLight](https://twitter.com/chainlight_io)                                          |
 | 50K                    | Critical     | [BendDAO](https://medium.com/@BendDAO/sewer-pass-flash-claim-vulnerability-9d2b0b1e09ef)                                                              | -                                                                                        |
 | -                      | Medium            | [OpenZeppelin](https://twitter.com/0xDACA/status/1669846430528286722)                                                                                 | [Daniel Cohen Hillel](https://twitter.com/0xDACA)                                        |
+| -                      | Critical     | [Eco](https://mirror.xyz/0x333247F2e126954ed6428e9135Ae9dE06A76BA32/Hhs0AGFqqemCljNa49AnYVUTrLPCvdyPtd23k4iwQ_M)                                      | [merkle_bonsai](https://twitter.com/merkle_bonsai)                                       |
 
 
