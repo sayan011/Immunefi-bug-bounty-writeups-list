@@ -84,5 +84,6 @@
 | -                      | Medium            | [OpenZeppelin](https://twitter.com/0xDACA/status/1669846430528286722)                                                                                 | [Daniel Cohen Hillel](https://twitter.com/0xDACA)                                        |
 | -                      | Critical     | [Eco](https://mirror.xyz/0x333247F2e126954ed6428e9135Ae9dE06A76BA32/Hhs0AGFqqemCljNa49AnYVUTrLPCvdyPtd23k4iwQ_M)                                      | [merkle_bonsai](https://twitter.com/merkle_bonsai)                                       |
 | -                      | -            | [Bifrost Finance](https://medium.com/@thiagoweb3/arrays-as-input-in-smart-contracts-things-you-should-know-b1eed7a2d17d)                              | [Matue](https://twitter.com/auditorweb3)                                                 |
+| -                      | -            | [Not discolsed](https://medium.com/@sudout92/exploiting-signature-verification-vulnerabilities-in-smart-contracts-f4eb64cd3b23)                       | [Heuss](https://twitter.com/UnoHeuss)                                                    |
 
 
