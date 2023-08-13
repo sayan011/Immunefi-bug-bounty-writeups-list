@@ -1,6 +1,7 @@
-- All submitted reports of Beanstalk: [Reports](https://community.bean.money/bug-reports)<br/>
-- Better & more comprehensive list: [SCV-List](https://github.com/sirhashalot/SCV-List)
-
+- [Immunefi's Bug fix Reviews](https://github.com/immunefi-team/Web3-Security-Library/blob/main/BugFixReviews/README.md)
+- [All submitted reports of Beanstalk](https://community.bean.money/bug-reports)<br/>
+- [SCV-List](https://github.com/sirhashalot/SCV-List)
+  
 | bounty  amount      | **severity** | **write-up**                                                                                                                       | **whitehat**                                                                             |
 |---------------|--------------|------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
 | 10M           | Critical     | [Wormhole](https://medium.com/immunefi/wormhole-uninitialized-proxy-bugfix-review-90250c41a43a)                                    | [satya0x](https://twitter.com/satya0x)                                                   |
