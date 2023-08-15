@@ -89,4 +89,4 @@
 | Not Paid(dup)  | Critical     | [-](https://medium.com/@Heuss/critical-nft-bridge-vulnerability-potential-theft-of-deposited-nfts-f5b26a7776eb)                                       | [Heuss](https://twitter.com/UnoHeuss)                                                    |
 | 95K                    | Critical     | [Yield Protocol](https://medium.com/immunefi/yield-protocol-logic-error-bugfix-review-7b86741e6f50)                                                   | [Paludo0x](https://twitter.com/PaludoX0)                                                 |
 | 500                    | Critical     | [O3 Swap](https://medium.com/@Heuss/unprotected-swap-function-a-erc777-reentrancy-vulnerability-81aaeaa75a2a)                                               | [Heuss](https://twitter.com/UnoHeuss)                                                    |
-
+| 20K                    | High     | [-](https://mirror.xyz/0xa270bb1241FF428927406e5Fde47e7EA8592aFb1/cf1QndLvVDnaSU38EtyFppYKMgF5ZDi0E6Olcsh-GSI)                                            | [Driver](https://twitter.com/qwerty6875987)                                                    |
