@@ -2,7 +2,7 @@
 - [All submitted reports of Beanstalk](https://community.bean.money/bug-reports)<br/>
 - [SCV-List](https://github.com/sirhashalot/SCV-List)
 
-| bounty amount          | **severity** | **write-up**                                                                                                                                          | **whitehat**                                                                           |
+| bounty amount          | **severity** | **protocol name + write-up link**                                                                                                                                          | **whitehat**                                                                           |
 | ---------------------- | ------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
 | 10M                    | Critical     | [Wormhole](https://medium.com/immunefi/wormhole-uninitialized-proxy-bugfix-review-90250c41a43a)                                                       | [satya0x](https://twitter.com/satya0x)                                                 |
 | 6M                     | Critical     | [Aurora](https://pwning.mirror.xyz/CB4XUkbJVwPo7CaRwRmCApaP2DMjPQccW-NOcCwQlAs)                                                                       | [pwning.eth](https://twitter.com/PwningEth)                                            |
