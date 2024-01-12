@@ -104,3 +104,4 @@
 | 50K                    | Critical    | [Astar](https://www.zellic.io/blog/finding-a-critical-vulnerability-in-astar/)                                                                                                    | [Zellic](https://twitter.com/zellic_io)|
 | -                    | 2 x Medium    | [Cronos Gravity Bridge](https://faith2dxy.xyz/2023-12-12/cronos-gravity-bridge-bugs/)                                                                                                    | [Faith](https://twitter.com/farazsth98)|
 | - | Low | [Nomad](https://nikitastupin.com/blog/2023/04/15/not-is-not-iszero.html) | [Nikita Stupin](https://twitter.com/_nikitastupin) |
+| 1.1M  | Critical | [Beanstalk](https://medium.com/immunefi/beanstalk-insufficient-input-validation-bugfix-review-fc3fdbaab15b) | nicole |
