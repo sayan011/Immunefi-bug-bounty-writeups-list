@@ -105,4 +105,4 @@
 | -                    | 2 x Medium    | [Cronos Gravity Bridge](https://faith2dxy.xyz/2023-12-12/cronos-gravity-bridge-bugs/)                                                                                                    | [Faith](https://twitter.com/farazsth98)|
 | - | Low | [Nomad](https://nikitastupin.com/blog/2023/04/15/not-is-not-iszero.html) | [Nikita Stupin](https://twitter.com/_nikitastupin) |
 | 1.1M  | Critical | [Beanstalk](https://medium.com/immunefi/beanstalk-insufficient-input-validation-bugfix-review-fc3fdbaab15b) | nicole |
-| 50k   | Medium | [100+ projects](https://www.trust-security.xyz/post/permission-denied) | [Trust Security](https://www.trust-security.xyz/team) |
+| 50k(total)   | Medium | [100+ projects](https://www.trust-security.xyz/post/permission-denied) | [Trust Security](https://www.trust-security.xyz/team) |
