@@ -106,3 +106,4 @@
 | - | Low | [Nomad](https://nikitastupin.com/blog/2023/04/15/not-is-not-iszero.html) | [Nikita Stupin](https://twitter.com/_nikitastupin) |
 | 1.1M  | Critical | [Beanstalk](https://medium.com/immunefi/beanstalk-insufficient-input-validation-bugfix-review-fc3fdbaab15b) | nicole |
 | 50k(total)   | Medium | [100+ projects](https://www.trust-security.xyz/post/permission-denied) | [Trust Security](https://www.trust-security.xyz/team) |
+| 200k    | Critical | [Oasys](https://mirror.xyz/0x333247F2e126954ed6428e9135Ae9dE06A76BA32/a6HqOCOjJ10Bosyi0cGz6Lxff8t68Uo4YvFsVg2tHaw) | [merkle_bonsai](https://twitter.com/merkle_bonsai/) |
