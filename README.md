@@ -109,3 +109,4 @@
 | 200k    | Critical | [Oasys](https://mirror.xyz/0x333247F2e126954ed6428e9135Ae9dE06A76BA32/a6HqOCOjJ10Bosyi0cGz6Lxff8t68Uo4YvFsVg2tHaw) | [merkle_bonsai](https://twitter.com/merkle_bonsai/) |
 | -    | High/Medium | [15+ projects](https://mirror.xyz/curiousapple.eth/pFqAdW2LiJ-6S4sg_u1z08k4vK6BCJ33LcyXpnNb8yU) | [curiousapple](https://twitter.com/0xcuriousapple) |
 | 200k    | Critical | [zkSync Lite](https://medium.com/immunefi/zksync-insufficient-proof-verification-bugfix-review-edb6db061675) | [LonelySloth](https://twitter.com/lonelysloth_sec) |
+| -    | Critical | [Polygon PoS](https://www.asymmetric.re/blog/polygon-log-confusion) | [Barracuda3172](https://twitter.com/asymmetric_re) |
