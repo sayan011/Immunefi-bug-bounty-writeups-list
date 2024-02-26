@@ -110,3 +110,4 @@
 | -    | High/Medium | [15+ projects](https://mirror.xyz/curiousapple.eth/pFqAdW2LiJ-6S4sg_u1z08k4vK6BCJ33LcyXpnNb8yU) | [curiousapple](https://twitter.com/0xcuriousapple) |
 | 200k    | Critical | [zkSync Lite](https://medium.com/immunefi/zksync-insufficient-proof-verification-bugfix-review-edb6db061675) | [LonelySloth](https://twitter.com/lonelysloth_sec) |
 | -    | Critical | [Polygon PoS](https://www.asymmetric.re/blog/polygon-log-confusion) | [Barracuda3172](https://twitter.com/asymmetric_re) |
+| ~76K    | Critical | [Stacks](https://medium.com/immunefi/stacks-dos-bugfix-review-dc0f2a75b276) | [Catchme](https://twitter.com/ma1fan) |
