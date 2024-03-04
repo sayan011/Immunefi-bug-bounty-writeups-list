@@ -111,3 +111,5 @@
 | 200k    | Critical | [zkSync Lite](https://medium.com/immunefi/zksync-insufficient-proof-verification-bugfix-review-edb6db061675) | [LonelySloth](https://twitter.com/lonelysloth_sec) |
 | -    | Critical | [Polygon PoS](https://www.asymmetric.re/blog/polygon-log-confusion) | [Barracuda3172](https://twitter.com/asymmetric_re) |
 | ~76K    | Critical | [Stacks](https://medium.com/immunefi/stacks-dos-bugfix-review-dc0f2a75b276) | [Catchme](https://twitter.com/ma1fan) |
+| Not Paid    | 2 x High | [Stargate](https://www.trust-security.xyz/post/learning-by-breaking-a-layerzero-case-study-part-2) | [Trust Security](https://www.trust-security.xyz/team) |
+| 5K    | Low | [LayerZero](https://www.trust-security.xyz/post/learning-by-breaking-a-layerzero-case-study-part-3) | [Trust Security](https://www.trust-security.xyz/team) |
