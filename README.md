@@ -1,4 +1,4 @@
-Disclaimer: If you're looking for the latest ones,they're most likely somewhere at the bottom
+Disclaimer: If you're looking for the latest ones,those're most likely somewhere at the bottom
 - [Immunefi's Bug fix Reviews](https://github.com/immunefi-team/Web3-Security-Library/blob/main/BugFixReviews/README.md)
 - [All submitted reports of Beanstalk](https://community.bean.money/bug-reports)<br/>
 - [SCV-List](https://github.com/sirhashalot/SCV-List)
