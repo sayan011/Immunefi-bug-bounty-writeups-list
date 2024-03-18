@@ -114,3 +114,4 @@ If you're looking for the latest ones,those're most likely somewhere at the bott
 | ~76K    | Critical | [Stacks](https://medium.com/immunefi/stacks-dos-bugfix-review-dc0f2a75b276) | [Catchme](https://twitter.com/ma1fan) |
 | Not Paid    | 2 x High | [Stargate](https://www.trust-security.xyz/post/learning-by-breaking-a-layerzero-case-study-part-2) | [Trust Security](https://www.trust-security.xyz/team) |
 | 5K    | Low | [LayerZero](https://www.trust-security.xyz/post/learning-by-breaking-a-layerzero-case-study-part-3) | [Trust Security](https://www.trust-security.xyz/team) |
+| -    | Critical | [Deri](https://mirror.xyz/0x2719F6Dfb85086F87319079cC2f7EeFD0e40994D/HVfC1Q3ZnOhMpMir1dDMW_e0aXDkcOKsUf30dNbAumA) | [riptide](https://twitter.com/0xriptide) |
