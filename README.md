@@ -116,3 +116,4 @@ If you're looking for the latest ones,those're most likely somewhere at the bott
 | 5K    | Low | [LayerZero](https://www.trust-security.xyz/post/learning-by-breaking-a-layerzero-case-study-part-3) | [Trust Security](https://www.trust-security.xyz/team) |
 | -    | Critical | [Deri](https://mirror.xyz/0x2719F6Dfb85086F87319079cC2f7EeFD0e40994D/HVfC1Q3ZnOhMpMir1dDMW_e0aXDkcOKsUf30dNbAumA) | [riptide](https://twitter.com/0xriptide) |
 | -    | Critical | [Polygon zkEVM](https://blog.verichains.io/p/discovering-and-fixing-a-critical) | [Verichains](https://twitter.com/Verichains) |
+| 1.6K    | Critical | [Cronos](https://gist.github.com/fatherGoose1/690fa2d8245488b6750b67a0fdeb34bc) | [0xDjango](https://twitter.com/0xDjangoOnChain) |
