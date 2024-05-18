@@ -1,4 +1,5 @@
 If you're looking for the latest ones,those're most likely somewhere at the bottom
+- [Bug reports from Bounty Boosts](https://github.com/immunefi-team/Bounty_Boosts)
 - [Immunefi's Bug fix Reviews](https://github.com/immunefi-team/Web3-Security-Library/blob/main/BugFixReviews/README.md)
 - [All submitted reports of Beanstalk](https://community.bean.money/bug-reports)<br/>
 - [SCV-List](https://github.com/sirhashalot/SCV-List)
@@ -117,3 +118,4 @@ If you're looking for the latest ones,those're most likely somewhere at the bott
 | -    | Critical | [Deri](https://mirror.xyz/0x2719F6Dfb85086F87319079cC2f7EeFD0e40994D/HVfC1Q3ZnOhMpMir1dDMW_e0aXDkcOKsUf30dNbAumA) | [riptide](https://twitter.com/0xriptide) |
 | -    | Critical | [Polygon zkEVM](https://blog.verichains.io/p/discovering-and-fixing-a-critical) | [Verichains](https://twitter.com/Verichains) |
 | 1.6K    | Critical | [Cronos](https://gist.github.com/fatherGoose1/690fa2d8245488b6750b67a0fdeb34bc) | [0xDjango](https://twitter.com/0xDjangoOnChain) |
+| 290,497    | High + Critical | [The Graph](https://medium.com/immunefi/the-graph-rounding-error-bugfix-review-c946ff470f65) | [GregadETH](https://x.com/Gregadeth) |
