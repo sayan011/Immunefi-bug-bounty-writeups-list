@@ -119,3 +119,4 @@ If you're looking for the latest ones,those're most likely somewhere at the bott
 | -    | Critical | [Polygon zkEVM](https://blog.verichains.io/p/discovering-and-fixing-a-critical) | [Verichains](https://twitter.com/Verichains) |
 | 1.6K    | Critical | [Cronos](https://gist.github.com/fatherGoose1/690fa2d8245488b6750b67a0fdeb34bc) | [0xDjango](https://twitter.com/0xDjangoOnChain) |
 | 290,497    | High + Critical | [The Graph](https://medium.com/immunefi/the-graph-rounding-error-bugfix-review-c946ff470f65) | [GregadETH](https://x.com/Gregadeth) |
+| 2M+75k    | 2 x Critical | [Sei Network](https://usmannkhan.com/bug%20reports/2024/06/17/sei-bug-report.html) | [usmannk](https://x.com/usmannk) |
