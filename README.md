@@ -123,3 +123,4 @@ If you're looking for the latest ones,those're most likely somewhere at the bott
 | 15k    | Medium | [Sovryn](https://x.com/gandu_whitehat/status/1803794103248806223) | [gandu](https://x.com/gandu_whitehat) |
 | 505k    | Critical | [Raydium](https://medium.com/immunefi/raydium-tick-manipulation-bugfix-review-c6aae4527ed6) | [riproprip](https://x.com/riproprip) |
 | 75k    | Critical | [Sei Network](https://exvul.com/share-the-details-sei-protocol-vulnerability-worth-75k/) | [Catchme](https://x.com/ma1fan) |
+| -    | Misc. | [-](https://github.com/devNamedKiki/Audits?tab=readme-ov-file#bug-bounties) | [Kiki](https://x.com/Kiki_developer) |
