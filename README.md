@@ -1,5 +1,5 @@
 If you're looking for the latest ones,those're most likely somewhere at the bottom
-- Bug reports from Bounty Boosts : [Github repo](https://github.com/immunefi-team/Bounty_Boosts) / [reports.immunefi.com](https://reports.immunefi.com/)
+- [Bug reports from Bounty Boosts](https://reports.immunefi.com/)
 - [Immunefi's Bug fix Reviews](https://github.com/immunefi-team/Web3-Security-Library/blob/main/BugFixReviews/README.md)
 - [All submitted reports of Beanstalk](https://community.bean.money/bug-reports)<br/>
 - [SCV-List](https://github.com/sirhashalot/SCV-List)
