@@ -125,4 +125,4 @@ If you're looking for the latest ones,those're most likely somewhere at the bott
 | 75k    | Critical | [Sei Network](https://exvul.com/share-the-details-sei-protocol-vulnerability-worth-75k/) | [Catchme](https://x.com/ma1fan) |
 | -    | Misc. | [-](https://github.com/devNamedKiki/Audits?tab=readme-ov-file#bug-bounties) | [Kiki](https://x.com/Kiki_developer) |
 | 150k    | Critical | [Evmos](https://medium.com/@jjordanjjordan/150-000-evmos-vulnerability-through-reading-documentation-d26328590a7a) | [jayjonah.eth](https://x.com/jayjonah_eth) |
-| 50k    | High | [Wormhole](https://x.com/marcotnunes/status/1889707212450234629) | [marcotnunes](https://x.com/marcotnunes) |
+| 50k    | High | [Wormhole](https://x.com/marcotnunes/status/1889707212450234629) | [Marco Nunes](https://x.com/marcotnunes) |
