@@ -127,3 +127,4 @@ If you're looking for the latest ones,those're most likely somewhere at the bott
 | 150k    | Critical | [Evmos](https://medium.com/@jjordanjjordan/150-000-evmos-vulnerability-through-reading-documentation-d26328590a7a) | [jayjonah.eth](https://x.com/jayjonah_eth) |
 | 50k    | High | [Wormhole](https://x.com/marcotnunes/status/1889707212450234629) | [Marco Nunes](https://x.com/marcotnunes) |
 | 250k    | Critical | [Balancer V2](https://mirror.xyz/0x38F1416B9Ed3a5DA9C12c56cb4F74D9564844728/iv9_q74rSlK7gbvbJAECuDIbzfUtrSCO6mSWIHPskKI) | [kankodu](https://x.com/kankodu) |
+| 50k    | Critical | [Axelar Network](https://marcotnunes.com/axelar-network-cross-chain-halt-vulnerability/) | [Marco Nunes](https://x.com/marcotnunes) |
