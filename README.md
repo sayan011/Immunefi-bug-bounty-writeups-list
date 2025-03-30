@@ -129,3 +129,4 @@ If you're looking for the latest ones,those're most likely somewhere at the bott
 | 250k    | Critical | [Balancer V2](https://mirror.xyz/0x38F1416B9Ed3a5DA9C12c56cb4F74D9564844728/iv9_q74rSlK7gbvbJAECuDIbzfUtrSCO6mSWIHPskKI) | [kankodu](https://x.com/kankodu) |
 | 50k    | Critical | [Axelar Network](https://marcotnunes.com/axelar-network-cross-chain-halt-vulnerability/) | [Marco Nunes](https://x.com/marcotnunes) |
 | -    | High | [Vesu](https://x.com/kankodu/status/1904821401510699389) | [kankodu](https://x.com/kankodu) |
+| 70k    | Critical | [Acala](https://immunefi.com/blog/all/acala-block-production-shutdown-bug-fix-review/) | [Lastc0de](https://x.com/thel4stc0de) |
