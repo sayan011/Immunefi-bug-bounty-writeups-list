@@ -133,3 +133,4 @@ If you're looking for the latest ones,those're most likely somewhere at the bott
 | 70k    | Critical | [Acala](https://immunefi.com/blog/all/acala-block-production-shutdown-bug-fix-review/) | [Lastc0de](https://x.com/thel4stc0de) |
 | 1k     | Critical | [Scroll](https://x.com/shabarkin/status/1917483039195816213) | [Pavel Shabarkin](https://x.com/shabarkin) |
 | 1M     | Critical | [Scroll](https://forum.scroll.io/t/report-scroll-mainnet-emergency-upgrade-on-2025-04-25/666#p-1404-issue-2-message-spoofing-in-the-bridge-4) | [WhiteHatMage](https://x.com/WhiteHatMage) |
+| -     | Critical | [Vesu](https://docs.vesu.xyz/security/disclosures-report/rounding-convention-bug-disclosure) | [Alex](https://x.com/__alexxander_) |
