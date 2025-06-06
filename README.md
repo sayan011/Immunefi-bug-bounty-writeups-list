@@ -134,4 +134,4 @@ If you're looking for the latest ones,those're most likely somewhere at the bott
 | 1k     | Critical | [Scroll](https://x.com/shabarkin/status/1917483039195816213) | [Pavel Shabarkin](https://x.com/shabarkin) |
 | 1M     | Critical | [Scroll](https://forum.scroll.io/t/report-scroll-mainnet-emergency-upgrade-on-2025-04-25/666#p-1404-issue-2-message-spoofing-in-the-bridge-4) | [WhiteHatMage](https://x.com/WhiteHatMage) |
 | -     | Critical | [Vesu](https://docs.vesu.xyz/security/disclosures-report/rounding-convention-bug-disclosure) | [Alex](https://x.com/__alexxander_) |
-| -     | High | [Across V3](https://mirror.xyz/0x9D6b7f5e8d1b9dFea8dDD29c0DbD81687e721601/mrt70ckjaZymv9keUy_TzHVIzjBOQr-Hx_KI1ydFeoQ) | [Zach Obront](https://x.com/zachobront) & [Deadrosesxyz](https://x.com/deadrosesxyz) |
+| -     | High | [Across V3](https://mirror.xyz/0x9D6b7f5e8d1b9dFea8dDD29c0DbD81687e721601/mrt70ckjaZymv9keUy_TzHVIzjBOQr-Hx_KI1ydFeoQ) | [Zach Obront](https://x.com/zachobront) & [deadrosesxyz](https://x.com/deadrosesxyz) |
