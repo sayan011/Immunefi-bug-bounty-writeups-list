@@ -137,4 +137,5 @@ If you're looking for the latest ones,those're most likely somewhere at the bott
 | -     | High | [Across V3](https://mirror.xyz/0x9D6b7f5e8d1b9dFea8dDD29c0DbD81687e721601/mrt70ckjaZymv9keUy_TzHVIzjBOQr-Hx_KI1ydFeoQ) | [Zach Obront](https://x.com/zachobront) & [deadrosesxyz](https://x.com/deadrosesxyz) |
 | 50k     | Critical | [VeChainThor](https://immunefi.com/blog/all/vechainthor-vtho-accrual-bypass-bug-fix-review/) | [nnez](https://x.com/__nnez) |
 | -     | High | [Fraxlend](https://mirror.xyz/0x22ce3c4ce1EC532437209efA79d05CD294651ec3/M6vD6XshTuZc53DFm0chQwYD15fxQ29G1mbxNi9ZLwU) | [Juan](https://x.com/0xjuaan) & [Spearmint](https://x.com/0xSpearmint) |
-
+| 100k     | Critical | [Story](https://www.story.foundation/blog/story-network-postmortem) | [WhiteHatMage](https://x.com/WhiteHatMage) |
+| -     | Critical | [Story](https://www.story.foundation/blog/story-network-postmortem) | [Jiri123](https://x.com/Jiri123_eth) |
