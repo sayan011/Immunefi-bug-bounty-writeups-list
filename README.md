@@ -141,4 +141,4 @@
 | -     | High | [Fraxlend](https://mirror.xyz/0x22ce3c4ce1EC532437209efA79d05CD294651ec3/M6vD6XshTuZc53DFm0chQwYD15fxQ29G1mbxNi9ZLwU) | [Juan](https://x.com/0xjuaan) & [Spearmint](https://x.com/0xSpearmint) |
 | 100k     | Critical | [Story](https://www.story.foundation/blog/story-network-postmortem) | [WhiteHatMage](https://x.com/WhiteHatMage) |
 | -     | Critical | [Story](https://www.story.foundation/blog/story-network-postmortem) | [Jiri123](https://x.com/Jiri123_eth) |
-| $6,710     | Critical | [Movement Labs](https://medium.com/@yemresaritoprak/permanent-chain-split-in-movement-full-node-anatomy-of-a-6-710-critical-vulnerability-that-fa75fe66a0c7) | [Yunus Emre Sarıtoprak](https://x.com/yemresaritoprak) |
+| 6.71K     | Critical | [Movement Labs](https://medium.com/@yemresaritoprak/permanent-chain-split-in-movement-full-node-anatomy-of-a-6-710-critical-vulnerability-that-fa75fe66a0c7) | [Yunus Emre Sarıtoprak](https://x.com/yemresaritoprak) |
