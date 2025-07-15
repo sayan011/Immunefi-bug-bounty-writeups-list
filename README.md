@@ -1,5 +1,5 @@
 - If you're looking for the latest ones,those're most likely somewhere at the bottom
-- Despite the name of the repo, it still contains stuff from other platforms
+- Despite the name of the repo, it still contains some stuff from other platforms
 --- 
 - [Bug reports from Bounty Boosts](https://reports.immunefi.com/)
 - [Immunefi's Bug fix Reviews](https://github.com/immunefi-team/Web3-Security-Library/blob/main/BugFixReviews/README.md)
