@@ -1,4 +1,4 @@
-- If you're looking for the latest ones,those're most likely somewhere at the bottom
+- If you're looking for the latest ones, those are most likely somewhere at the bottom
 - Despite the name of the repo, it still contains some stuff from other platforms
 --- 
 - [Bug reports from Bounty Boosts](https://reports.immunefi.com/)
@@ -144,3 +144,4 @@
 | 6.71k     | Critical | [Movement Labs](https://medium.com/@yemresaritoprak/permanent-chain-split-in-movement-full-node-anatomy-of-a-6-710-critical-vulnerability-that-fa75fe66a0c7) | [Yunus Emre Sarıtoprak](https://x.com/yemresaritoprak) |
 | -     | High | [Lido](https://research.lido.fi/t/security-disclosure-dg-weakness-reported-through-immunefi-funds-not-at-risk/10393) | [riptide](https://twitter.com/0xriptide)  |
 | 50k     | High | [Sui](https://immunefi.com/blog/bug-fix-reviews/sui-network-shutdown/) | F4lt |
+| -     | Critical | [marginfi](https://blog.asymmetric.re/threat-contained-marginfi-flash-loan-vulnerability/) | [Felix Wilhelm](https://x.com/_fel1x) |
